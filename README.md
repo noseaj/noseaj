@@ -5,7 +5,7 @@
 🚀 I'm interested in Data Science, AI and WiFi Sensing.  
 📨 Contact Me : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:ths990414@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:xison@naver.com)  
-💻 Here's my CV : [CV]((https://github.com/noseaj/noseaj/blob/main/%E1%84%89%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%A2%E1%84%89%E1%85%A5%E1%86%BC_CV.pdf))
+💻 Here's my CV : [CV](https://github.com/noseaj/noseaj/blob/main/%E1%84%89%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%A2%E1%84%89%E1%85%A5%E1%86%BC_CV.pdf)
 
 # Skills
 ### Language
